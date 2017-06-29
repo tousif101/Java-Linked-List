@@ -1,0 +1,23 @@
+commit 812982e23467e952ead450643412a5968e16e124
+Author: Tousif Chowdhury <tac5780@rit.edu>
+Date:   Tue Feb 17 21:56:16 2015 -0500
+
+    I fixed up a lot of errors and I added some comments.
+
+commit 36505f8b0922b3135ea1bbc1f848f3a1aef74f30
+Author: Tousif Chowdhury <tac5780@rit.edu>
+Date:   Tue Feb 17 21:26:48 2015 -0500
+
+    I added a few methods.
+
+commit 5acb204d37c051aa89849e6f2f6973c58941b72f
+Author: Tousif Chowdhury <tac5780@rit.edu>
+Date:   Tue Feb 17 20:58:15 2015 -0500
+
+    I added a few methods.
+
+commit ed2d932efc0fcc18a2580ac0b2ce062e291cec67
+Author: Tousif Chowdhury <tac5780@rit.edu>
+Date:   Tue Feb 17 20:53:48 2015 -0500
+
+    I added a few methods.
